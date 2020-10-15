@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Sebastian](https://sebastianwesolowski.netlify.app)
+## Hello 👋, My name is [Sebastian](https://sebastianwesolowski.netlify.app)
 
 I am passionate about creating websites and internet applications. Most of the time I improve the skills that i use in my work, I like learning new programming languages and technologies.
 
